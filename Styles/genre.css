@@ -1,0 +1,107 @@
+body{
+    background-color: #333;
+    color: #f5716e;
+    margin: 0;
+}
+
+nav{
+    background-color: #3d506f;
+    padding-top: 20;
+    padding-bottom: 20;
+    padding-left: 10;
+    color: #f5716e;
+}
+
+div.header{
+    display: flex;
+    align-items: center;
+    background-color: #202938;
+    padding-left: 10;
+    padding-bottom: 10;
+    width: auto;
+}
+
+form{
+    margin-top: 12;
+    margin-left: 700;
+}
+
+input{
+    background-color: #545454;
+    color: #fff;
+}
+
+button{
+    color: #f5716e;
+    border-width: 1;
+    border-color: #fff;
+    background-color: #333;
+    border-radius: 18% 18% 18% 18%;
+    font-size: 18;
+}       
+
+a {
+    color: #f5716e;
+    text-decoration: none;
+    margin-right: 10;
+  }
+
+div.grid-content{
+    justify-self: center;
+    margin-top: 10;
+    margin-bottom: 10;
+    width: 70%
+}
+
+div.page{
+    justify-self: center;
+    padding-top: 10;
+}
+
+hr{
+    border: 0;
+    height: 4px;               
+    background-color: #FF4C4C; 
+    margin: 20px 0;            
+    width: 100%;         
+}
+
+img{
+    height: 280;
+    width: 200;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+    vertical-align: top;
+    padding: 20px;
+}
+
+.comic-card {
+    display: inline-block;
+    width: 200px;
+    margin: 10px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.genre-filter {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.genre-filter button {
+    margin: 0 5px;
+    padding: 8px 15px;
+}
