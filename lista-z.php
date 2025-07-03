@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Lutify Comic</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="lista-z.css">
 </head>
 <body>
     <header>
@@ -59,6 +59,6 @@
         </table>
     </div>
 
-    <script src="script.js"></script>
+    <script src="lista-z.js"></script>
 </body>
 </html>
